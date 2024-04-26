@@ -1,1 +1,1 @@
-## This is the directory to place scripts or instructions in for recreating the figures that are represented in your publication
+## This is the directory to with scripts for recreating the figures that are represented in the publication
