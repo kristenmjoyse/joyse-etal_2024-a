@@ -1,5 +1,3 @@
-![image](https://github.com/kristenmjoyse/joyse-etal_inreview-a/assets/168171469/f7bce303-9288-4d97-bf4d-480530e9aeeb)_your zenodo badge here_
-
 # Joyse et al. in review
 
 **The preservation of storm events in the geologic record of New Jersey, USA**
